@@ -23,7 +23,7 @@ requirements:
     - python {{ python_min }}
     - setuptools
   run:
-    - appium-python-client >=2.7.1,<4.0.0
+    - appium-python-client >=4.5.0
     - decorator >=3.3.2
     - docutils >=0.8.1
     - kitchen >=1.2.4
