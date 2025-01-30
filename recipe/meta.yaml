@@ -46,7 +46,7 @@ about:
   home: https://github.com/serhatbolsu/robotframework-appiumlibrary
   summary: Robot Framework Mobile app testing library for Appium Client Android & iOS & Web
   license: Apache-2.0
-  license_file: LICENSE.txt
+  license_file: LICENSE.txt 
 extra:
   recipe-maintainers:
     - saibhargav1508
