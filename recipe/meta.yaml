@@ -29,7 +29,7 @@ requirements:
     - kitchen >=1.2.4
     - python >={{ python_min }}
     - robotframework >=2.6.0
-    - selenium >=4.0,<=4.16
+    - selenium >=4.26
     - six >=1.10.0
 
 test:
