@@ -1,4 +1,4 @@
-{% set python_min = '3.12' %}
+{% set python_min = '3.7' %}
 {% set name = "robotframework-appiumlibrary" %}
 {% set version = "2.1.0" %}
 
@@ -8,7 +8,7 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/robotframework-appiumlibrary-{{ version }}.tar.gz
+  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/robotframework-appiumlibrary-{{ version }}.tar.gz
   sha256: d01b1ed21e79996a790ffb7ad475862f6e9427770a9c88314065b1c59ce2d52c
 
 build:
