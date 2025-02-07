@@ -1,4 +1,4 @@
-{% set python_min = '3.7' %}
+{% set python_min = '3.12' %}
 {% set name = "robotframework-appiumlibrary" %}
 {% set version = "2.1.0" %}
 
